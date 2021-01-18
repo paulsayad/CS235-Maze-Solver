@@ -13,9 +13,6 @@
 
 * Create a "Solutions.cpp" file where all the algorithms will be created
 
-## Algorithmic Analysis
-### Test
-
 ## How To Compile the Program
 
 1. Download the files and put them in a directory
