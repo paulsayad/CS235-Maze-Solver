@@ -18,5 +18,6 @@
 
 ## How To Compile the Program
 
-1. Download the files and put them in 
-2. 
+1. Download the files and put them in a directory
+2. Navigate to your directory in your terminal and run the command
+'<addr>'
