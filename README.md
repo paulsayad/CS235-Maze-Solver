@@ -11,7 +11,7 @@
 
 ## Project Design
 
-* Solutions.cpp file containing all the algorithms
+* Create a "Solutions.cpp" file where all the algorithms will be created
 
 ## Algorithmic Analysis
 ### Test
