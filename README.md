@@ -11,6 +11,8 @@
 
 ## Project Design
 
+* Solutions.cpp file containing all the algorithms
+
 ## Algorithmic Analysis
 
 ## How To Compile the Program
