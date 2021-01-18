@@ -21,4 +21,6 @@
 1. Download the files and put them in a directory
 2. Navigate to your directory in your terminal and run the command
 > g++ main.cpp -o main
-3. Run > ./main to execute the file
+3. To execute the program run the command
+> ./main
+4. By default, the program will solve the first maze using the Breadth-first search alogirthm, to solve other mazes with any algorithm, please enter the "main.cpp" file where there are additional instructions
