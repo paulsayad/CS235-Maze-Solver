@@ -11,7 +11,7 @@
 
 ## Project Design
 
-* Create a "Solutions.cpp" file where all the algorithms will be created
+* Create a "Solutions.cpp" file where all the algorithms will be implemented
 
 ## How To Compile the Program
 
