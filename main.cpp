@@ -19,7 +19,7 @@ int main()
     // To solve the maze using different algorithms, change the function to "solveDFS", "solveBFS", or "solveDEF"
     
     // solveDFS -> solves the maze using Depth-First Search
-    // solveBFS -> solves the maze using Bredth-First Search
+    // solveBFS -> solves the maze using Breadth-First Search
     // solveDEF -> solves the maze using Dead-End Filling
 
     vector<MazeNode> answer = solutions::solveDFS(mazeOne);
