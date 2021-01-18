@@ -23,4 +23,4 @@
 > g++ main.cpp -o main
 3. To execute the program run the command
 > ./main
-4. By default, the program will solve the first maze using the Breadth-first search alogirthm, to solve other mazes with any algorithm, please enter the "main.cpp" file where there are additional instructions
+4. By default, the program will solve the first maze using the Depth-first search alogirthm, to solve other mazes with any algorithm, please enter the "main.cpp" file where there are additional instructions
