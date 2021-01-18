@@ -20,4 +20,5 @@
 
 1. Download the files and put them in a directory
 2. Navigate to your directory in your terminal and run the command
-'<addr>'
+> g++ main.cpp -o main
+3. Run > ./main to execute the file
